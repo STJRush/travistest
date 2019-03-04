@@ -5,11 +5,10 @@ python:
 
 
 env:
-  - x=1
+  - 1=1
 
 
 
 # command to run tests
-script: pytest samplepython.py
-
+script: 1=1
 
