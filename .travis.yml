@@ -13,8 +13,8 @@ python:
   - "nightly" # currently points to 3.7-dev
 
 env:
-  - FOO=foo BAR=bar
-  - FOO=bar BAR=foo
+  - x=1
+
 
 
 # command to run tests
