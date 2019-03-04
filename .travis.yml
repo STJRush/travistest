@@ -10,5 +10,5 @@ env:
 
 
 # command to run tests
-script: ls
+script: sudo python samplepython.py
 
