@@ -10,6 +10,6 @@ env:
 
 
 # command to run tests
-script: pytest
+script: pytest samplepython.py
 
 
